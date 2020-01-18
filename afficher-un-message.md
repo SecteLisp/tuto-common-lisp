@@ -1,3 +1,5 @@
+# Comment afficher un message en Common Lisp ?
+
 En Common Lisp, les chaînes de caractères sont notées entre guillemets (`"`).
 
 Exemple :
@@ -9,7 +11,7 @@ Il existe deux moyens simples d'afficher un message en Common Lisp :
 * [print](#afficher-un-message-avec-print)
 * [format](#afficher-un-message-avec-format)
 
-# Afficher un message avec print
+## Afficher un message avec print
 
 La commande suivante affiche une chaîne de caractères :
 ```lisp
@@ -19,7 +21,7 @@ La commande suivante affiche une chaîne de caractères :
 * `print` est le nom de la fonction. Elle permet d'afficher un objet.
 * `"Message"` est une chaîne de caractères.
 
-# Afficher un message avec format
+## Afficher un message avec format
 
 La commande suivante affiche une chaîne de caractères :
 ```lisp
