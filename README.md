@@ -1,4 +1,4 @@
-# tuto-common-lisp
+# Tutoriel Common Lisp de la Secte Lisp
 
 Tutoriel pour apprendre le langage et dialecte Common Lisp.
 
