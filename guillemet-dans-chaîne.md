@@ -1,4 +1,4 @@
-# Comment mettre une guillemet dans une chaîne de caractères en Common Lisp ?
+# Comment mettre une guillemet (") dans une chaîne de caractères en Common Lisp ?
 
 En Common Lisp, une chaîne de caractères est notée entre guillemets (`"`).
 
