@@ -13,3 +13,5 @@ Exemple :
 ```lisp
 "Ma guillemet: \"."
 ```
+
+Important: il ne faut pas confondre la guillemet (`"`) avec l'apostrophe (`'`) ou l'accent grave (`` ` ``). L'apostrophe et l'accent grave ne nécessitent pas d'échappement.
