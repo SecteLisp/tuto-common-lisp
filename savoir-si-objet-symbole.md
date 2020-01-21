@@ -2,7 +2,8 @@
 
 Il faut utiliser la fonction `symbolp`.
 
-Exemple :
+Exemples :
 ```lisp
-(symbolp "cette chaîne est-elle un objet ?")
+(symbolp 'ok)
+(symbolp "cette chaîne est-elle un symbole ?")
 ```
