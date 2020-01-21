@@ -8,3 +8,4 @@ Tutoriel pour apprendre le langage et dialecte Common Lisp.
 * [Comment additionner des nombres ?](https://github.com/SecteLisp/tuto-common-lisp/blob/master/additionner-nombres.md)
 * [Comment concaténer des chaînes de caractères ?](https://github.com/SecteLisp/tuto-common-lisp/blob/master/concaténer-chaînes.md)
 * [Comment savoir si un objet est un symbole ?](https://github.com/SecteLisp/tuto-common-lisp/blob/master/savoir-si-objet-symbole.md)
+* [Comment savoir si un objet est une chaîne de caractères](https://github.com/SecteLisp/tuto-common-lisp/blob/master/savoir-si-objet-chaîne.md)
