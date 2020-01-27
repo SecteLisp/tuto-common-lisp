@@ -11,3 +11,4 @@ Tutoriel pour apprendre le langage et dialecte Common Lisp.
 * [Comment savoir si un objet est une chaîne de caractères ?](https://github.com/SecteLisp/tuto-common-lisp/blob/master/savoir-si-objet-chaîne.md)
 * [Comment savoir si un objet est un entier ?](https://github.com/SecteLisp/tuto-common-lisp/blob/master/savoir-si-objet-entier.md)
 * [Comment savoir si un objet est un nombre ?](https://github.com/SecteLisp/tuto-common-lisp/blob/master/savoir-si-objet-nombre.md)
+* [Comment est représenté le faux ?](https://github.com/SecteLisp/tuto-common-lisp/blob/master/faux.md)
