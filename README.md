@@ -14,3 +14,4 @@ Tutoriel pour apprendre le langage et dialecte Common Lisp.
 * [Comment est représenté le vrai ?](https://github.com/SecteLisp/tuto-common-lisp/blob/master/vrai.md)
 * [Comment est représenté le faux ?](https://github.com/SecteLisp/tuto-common-lisp/blob/master/faux.md)
 * [Comment créer une liste ?](https://github.com/SecteLisp/tuto-common-lisp/blob/master/cr%C3%A9er-liste.md)
+* [Comment tester si des symboles sont égaux ?](https://github.com/SecteLisp/tuto-common-lisp/blob/master/tester-si-symboles-%C3%A9gaux.md)
