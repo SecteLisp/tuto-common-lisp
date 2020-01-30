@@ -4,4 +4,5 @@ Il faut utiliser la fonction `eq`.
 
 Exemple :
 ```lisp
-(eq 'a 'b)```
+(eq 'a 'b)
+```
