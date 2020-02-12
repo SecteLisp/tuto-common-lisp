@@ -16,3 +16,4 @@ Tutoriel pour apprendre le langage et dialecte Common Lisp.
 * [Comment créer une liste ?](https://github.com/SecteLisp/tuto-common-lisp/blob/master/cr%C3%A9er-liste.md)
 * [Comment tester si des symboles sont égaux ?](https://github.com/SecteLisp/tuto-common-lisp/blob/master/tester-si-symboles-%C3%A9gaux.md)
 * [Comment tester si deux chaînes de caractères sont égales ?](https://github.com/SecteLisp/tuto-common-lisp/blob/master/tester-si-cha%C3%AEnes-de-caract%C3%A8res-%C3%A9gales.md)
+* [Comment ajouter des listes ?](https://github.com/SecteLisp/tuto-common-lisp/blob/master/ajouter-listes.md)
