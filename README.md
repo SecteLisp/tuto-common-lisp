@@ -18,4 +18,5 @@ Tutoriel pour apprendre le langage et dialecte Common Lisp.
 * [Comment tester si deux chaînes de caractères sont égales ?](https://github.com/SecteLisp/tuto-common-lisp/blob/master/tester-si-cha%C3%AEnes-de-caract%C3%A8res-%C3%A9gales.md)
 * [Comment ajouter des listes ?](https://github.com/SecteLisp/tuto-common-lisp/blob/master/ajouter-listes.md)
 * [Comment faire une condition ?](https://github.com/SecteLisp/tuto-common-lisp/blob/master/condition.md)
+* [Comment faire une boucle infinie ?](https://github.com/SecteLisp/tuto-common-lisp/blob/master/comment-faire-une-boucle-infinie.md)
 * [Comment répéter une action ?](https://github.com/SecteLisp/tuto-common-lisp/blob/master/r%C3%A9p%C3%A9ter-une-action.md)
