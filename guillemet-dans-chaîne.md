@@ -7,7 +7,7 @@ Exemple :
 "Ma chaîne de caractères"
 ```
 
-Pour mettre une guillemet dans une chaîne de cracatères, c'est-à-dire "échapper" la guillemet, il faut mettre un `\` devant.
+Pour mettre une guillemet dans une chaîne de caractères, c'est-à-dire "échapper" la guillemet, il faut mettre un `\` devant.
 
 Exemple :
 ```lisp
