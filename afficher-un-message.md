@@ -31,4 +31,4 @@ La commande suivante affiche une chaîne de caractères :
 * `format` est le nom de la fonction. Elle permet d'afficher une chaîne de caractères formatée.
 * `t` signifie que le message doit s'afficher dans la console standard. Il est également possible de spécifier d'autres cibles où le message doit être enregistré hormis la console standard, comme par exemple un fichier.
 * `"Message~%"` est une chaîne de caractères.
-* Le `~%` dans la chaîne de caractères passée en paramètre de la fonction `format` affichera un saut à la ligne. Puisqu'il s'agit d'un effet sur l'affichage du texte, la chaîne de caractère est dite "formatée".
+* Le `~%` dans la chaîne de caractères passée en paramètre de la fonction `format` affichera un saut à la ligne. Puisqu'il s'agit d'un effet sur l'affichage du texte, la chaîne de caractères est dite "formatée".
